@@ -9,10 +9,10 @@
   },
   "keywords": [],
   "author": "",
-
   "license": "ISC",
   "dependencies": {
     "@deriv/deriv-api": "^1.0.7",
+    "binary-indicators": "^1.5.2",
     "ws": "^7.4.4"
   }
 }
